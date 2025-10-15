@@ -1,0 +1,7 @@
+pdfplumber==0.7.6
+pdfminer.six==20221105
+pandas==2.2.3
+python-dateutil==2.8.2
+streamlit==1.28.0   # optional, for demo UI
+pytesseract>=0.3.10 # optional, OCR fallback
+Pillow>=10.3.0     # required by pytesseract
